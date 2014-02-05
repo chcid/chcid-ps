@@ -25,3 +25,13 @@
   color: #ffffff;
   background-color: #45A4CB;
 }
+
+body {
+font-size: 20px;
+font-weight:bold;
+}
+
+.navbar-brand {
+font-size: 28px;
+font-weight:bold;
+}
